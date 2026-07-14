@@ -30,23 +30,20 @@
   <img src="https://skillicons.dev/icons?i=go,ts,js,html,css,java,python,git,github,vscode" alt="Tech stack" />
 </p>
 
-### Featured projects
+### Selected work
 
-| Project | Stack | What it is |
-| --- | --- | --- |
-| [capcode](https://github.com/f0nce/capcode) | Go | Go project from my pinned repositories. |
-| [sidequester](https://github.com/f0nce/sidequester) | HTML | Web project focused on fast, lightweight UI. |
-| [LosPollosHermanos](https://github.com/f0nce/LosPollosHermanos) | TypeScript | AgroToken: a Solana-based idea for transparent agricultural asset/token workflows. |
-| [chainfind](https://github.com/f0nce/chainfind) | JavaScript | JavaScript project in my recent work. |
-| [digitalqazaq](https://github.com/f0nce/digitalqazaq) | JavaScript | Digital product experiment. |
-| [strawberry-ex](https://github.com/f0nce/strawberry-ex) | HTML | Published web project on GitHub Pages. |
+| Project | Area | Stack | What it does |
+| --- | --- | --- | --- |
+| [documind-ai](https://github.com/f0nce/documind-ai) | Local AI / data workflow | Go, FastAPI, PostgreSQL, pgvector, NATS, MinIO, Ollama, Docker | Document upload, async processing, summaries, RAG chat, semantic search, workspaces, roles, and local deployment without paid AI APIs. |
+| [ap2_a1](https://github.com/f0nce/ap2_a1) | Microservices | Go, REST, gRPC, PostgreSQL, Redis, RabbitMQ, Docker Compose | Order, payment, and notification services with service-to-service communication and containerized local infrastructure. |
+| [capcode](https://github.com/f0nce/capcode) | Coding platform | Go, MongoDB, JWT, React | Coding platform with REST API, authentication, frontend, and asynchronous code submission checking. |
+| [LosPollosHermanos](https://github.com/f0nce/LosPollosHermanos) | Product / data flows | TypeScript, Solana, AI risk scoring | AgroToken concept for agricultural asset tokenization, transparent investment flows, risk scoring, and on-chain revenue distribution. |
 
 ### GitHub stats
-
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=f0nce&show_icons=true&hide_border=true&theme=transparent" alt="Marsel's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f0nce&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
 </p>
+
 
 ### Connect
 
